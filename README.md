@@ -10,9 +10,9 @@ The goal was to add semantic html elements and add consolidate code in the html 
 
 
 ## Deployed Page
-![Deployed Page Screenshot](#)
+![Deployed Page Screenshot](![image](https://user-images.githubusercontent.com/84211810/122159640-74948600-ce23-11eb-8ae1-66515b644a70.png))
 
-[Deployed Gitpage](#)
+[Deployed Gitpage](https://christopher-de.github.io/horiseon-refactor/)
 
 ## Refactor Comments
 * Added title stating the name of the company
